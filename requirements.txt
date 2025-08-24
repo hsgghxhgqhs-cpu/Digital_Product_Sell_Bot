@@ -1,5 +1,5 @@
 python-telegram-bot==20.7
-SQLAlchemy==2.0.21
-typing-extensions==4.7.1
+SQLAlchemy==1.4.49
+typing-extensions==4.5.0
 psycopg2-binary==2.9.7
 python-dotenv==1.0.0
